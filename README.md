@@ -1,1 +1,2 @@
-# Graph-Neural-Network
+## Graph-Neural-Network
+# Fundamentals of GNN
