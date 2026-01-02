@@ -1,2 +1,2 @@
 ## Graph-Neural-Network
-# Fundamentals of GNN
+# Fundamentals of GNN using PyG
